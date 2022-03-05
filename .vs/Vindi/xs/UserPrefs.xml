@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{330BA820-7DA3-4B4E-9EC0-C9C6396BFF80}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Vindi/Startup.cs" Line="1" Column="1" />
+      <File FileName="Vindi/Program.cs" />
+      <File FileName="Vindi/Controllers/HomeController.cs" />
+      <File FileName="Vindi/Models/Movie.cs" />
+      <File FileName="Vindi/Controllers/CustomersController.cs" />
+      <File FileName="Vindi/Views/Shared/_Layout.cshtml" />
+      <File FileName="Vindi/Views/Customers/Index.cshtml" />
+      <File FileName="Vindi/Models/Customer.cs" />
+      <File FileName="Vindi/Views/Customers/Details.cshtml" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Vindi" expanded="True">
+            <Node name="Vindi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Customers" expanded="True">
+                  <Node name="Details.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Vindi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
